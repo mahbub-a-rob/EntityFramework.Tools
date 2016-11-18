@@ -1,5 +1,5 @@
-﻿{
-  "version": "1.1.0-*",
+{
+  "version": "1.1.0-preview4-final",
   "description": "Entity Framework Core .NET Command Line Tools. Includes dotnet-ef.",
   "buildOptions": {
     "emitEntryPoint": true,
@@ -24,7 +24,7 @@
   "dependencies": {
     "Microsoft.DotNet.Cli.Utils": "1.0.0-*",
     "Microsoft.Extensions.CommandLineUtils.Sources": {
-      "version": "1.1.0-*",
+      "version": "1.1.0-rtm-22752",
       "type": "build"
     }
   },
@@ -32,7 +32,7 @@
     "netcoreapp1.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
-          "version": "1.1.0-*",
+          "version": "1.1.0",
           "type": "platform"
         }
       }

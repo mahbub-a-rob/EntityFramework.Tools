@@ -3,7 +3,7 @@
   "description": "Entity Framework Core Command Line Tools",
   "dependencies": {
     "Microsoft.Extensions.CommandLineUtils.Sources": {
-      "version": "1.1.0-*",
+      "version": "1.1.0-rtm-22752",
       "type": "build"
     }
   },
@@ -29,12 +29,12 @@
     }
   },
   "frameworks": {
-    "net451": { },
+    "net451": {},
     "netcoreapp1.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
           "type": "platform",
-          "version": "1.1.0-*"
+          "version": "1.1.0"
         }
       }
     }
