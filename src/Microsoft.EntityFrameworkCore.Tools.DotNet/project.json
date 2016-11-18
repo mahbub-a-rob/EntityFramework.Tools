@@ -22,7 +22,7 @@
     "packageType": "DotnetCliTool"
   },
   "dependencies": {
-    "Microsoft.DotNet.Cli.Utils": "1.0.0-*",
+    "Microsoft.DotNet.Cli.Utils": "1.0.0-preview2-003121",
     "Microsoft.Extensions.CommandLineUtils.Sources": {
       "version": "1.1.0-rtm-22752",
       "type": "build"
